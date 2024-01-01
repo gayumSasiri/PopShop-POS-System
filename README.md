@@ -12,6 +12,7 @@ Welcome to the PopShop POS System, a Java-based solution meticulously designed t
 - intellij IDEA
 
 ### Sample images
+![Screenshot from 2024-01-01 10-58-16](https://github.com/gayumSasiri/PopShop-POS-System/assets/138274096/e559f35a-fe02-497e-9d05-d2908450e7e0)
 
 ### Version 1.0.0
 
