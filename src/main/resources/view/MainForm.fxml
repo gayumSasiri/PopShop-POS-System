@@ -10,12 +10,12 @@
 
 <AnchorPane id="AnchorPane" fx:id="root" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: white;" styleClass="mainFxmlClass" stylesheets="@../style/style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.dep11.pos.controller.MainFormController">
    <children>
-      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="200.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="70.0" fitWidth="186.0" layoutX="215.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../asset/ijse-logo.gif" />
+            <Image url="@../asset/popShop-logo.png" />
          </image>
       </ImageView>
-      <Label layoutX="182.0" layoutY="76.0" text="SMART POINT of SALE SYSTEM">
+      <Label layoutX="182.0" layoutY="96.0" text="SMART POINT of SALE SYSTEM">
          <font>
             <Font name="System Bold" size="16.0" />
          </font>
